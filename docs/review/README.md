@@ -30,9 +30,9 @@ frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"><
 Игру оценил на XX/XX!
 
 ### РЕКОМЕНДУЮ/НЕ СОВЕТУЮ
-- [X] Рекомендую
+ - [X] Рекомендую
 
-- [ ] НЕ СОВЕТУЮ
+ - [ ] НЕ СОВЕТУЮ
 
 -->
 # Добро пожаловать на сайт Обзора игр от BEN`a !
@@ -90,9 +90,9 @@ frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"><
 Игру оценил на 6.5/10!
 
 ### РЕКОМЕНДУЮ/НЕ СОВЕТУЮ
-- [X] Рекомендую
+ - [X] Рекомендую
 
-- [ ] Не советую
+ - [ ] Не советую
 
 
 ## Partisans 1941
@@ -125,9 +125,9 @@ frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"><
 Игру оценил на X/10!
 
 ### РЕКОМЕНДУЮ/НЕ СОВЕТУЮ
-- [ ] Рекомендую
+ - [ ] Рекомендую
 
-- [X] Не советую
+ - [X] Не советую
 
 
 ## DmC Devil May Cry
@@ -173,9 +173,9 @@ frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"><
 Cюжетное дополнение на 6\10!
 
 ### РЕКОМЕНДУЮ/НЕ СОВЕТУЮ
-- [X] Рекомендую
+ - [X] Рекомендую
 
-- [ ] Не советую
+ - [ ] Не советую
 
 ## METAL GEAR RISING: REVENGEANCE
 
@@ -202,9 +202,9 @@ Cюжетное дополнение на 6\10!
 frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>	
 
 ### РЕКОМЕНДУЮ/НЕ СОВЕТУЮ
-- [ ] Рекомендую
+ - [ ] Рекомендую
 
-- [X] Не советую
+ - [X] Не советую
 
 ## ТАБЛИЦА ОЦЕНКОК ИГР	  
 
