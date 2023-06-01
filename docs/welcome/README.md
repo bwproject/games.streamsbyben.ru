@@ -3,9 +3,11 @@
 <!-- you don't need to prepend `/bar/` to `/images/hero.png` manually -->
 ![logo](https://games.streamsbyben.ru/images/hero.png)
 
-Обзор игр
+' Определённых предпочтений по играм нет! '
 
-#ИГРА 1
+' Играю во всё, что пожелаете и во что сам захочу!'
+
+# ИГРА 1
 
 ## Сайт создан на движке `VuePress`
 [VuePress](https://vuepress.vuejs.org/)
