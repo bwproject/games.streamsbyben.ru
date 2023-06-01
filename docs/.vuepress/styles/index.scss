@@ -152,6 +152,8 @@
   --search-item-focus-bg-color: var(--c-bg-light);
 }
 
+
+
 html.dark {
   // brand colors
   --c-brand: #0924ed;
@@ -165,10 +167,10 @@ html.dark {
   --c-bg-darker: #37404c;
 
   // text colors
-  --c-text: #a32929;
+  --c-text: #adbac7;
   --c-text-light: #96a7b7;
   --c-text-lighter: #8b9eb0;
-  --c-text-lightest: #8094a8;
+  --c-text-lightest: #a32929;
 
   // border colors
   --c-border: #3e4c5a;
