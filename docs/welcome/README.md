@@ -33,7 +33,13 @@ P.S: Почему Тит и Мира так не сошлись я вообще 
 
 - [ ] Не понравилась
 
-<oembed>https://www.twitch.tv/videos/1834970054</oembed>
+https://www.twitch.tv/videos/1834970054
+
+
+![](https://www.twitch.tv/videos/1834970054)
+
+<iframe src="https://player.twitch.tv/?video=1834970054&parent=games.streamsbyben.ru" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+
 
 # ИГРА 2
 
@@ -51,7 +57,8 @@ P.S: Почему Тит и Мира так не сошлись я вообще 
 
 - [x] Не понравилась
 
-<oembed>https://www.twitch.tv/videos/1823752117</oembed>
+https://www.twitch.tv/videos/1823752117
+
 # ИГРА 3
 
 
