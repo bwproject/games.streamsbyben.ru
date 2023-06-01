@@ -44,13 +44,21 @@ export default defineUserConfig({
             {
                 text: 'Обзор игр от BEN`a',
                 children: [
-                    '/welcome/README.md',                  				
+                    '/review/README.md',                  				
                 ],
             },
             {
                 text: 'ОФИЦИАЛЬНЫЙ САЙТ BEN`a',
                 link: 'https://streamsbyben.ru/',
             },
+            {
+                text: 'ВК',
+                link: 'https://vk.com/publicbyben/,
+            },
+            {
+                text: 'ТВИЧ',
+                link: 'https://www.twitch.tv/streamsbyben',
+            },			
             {
                 text: 'PROJECTBW.RU',
                 link: 'https://projectbw.ru/',
@@ -62,7 +70,7 @@ export default defineUserConfig({
                     text: 'Обзор игр от BEN`a',
                     collapsible: false,
                     children: [						
-			'/welcome/README.md',											
+			'/review/README.md',											
                     ],
                 },
             ],

@@ -6,7 +6,7 @@ heroText: Обзор игр от BEN`a
 tagline: Тут BEN пишет обзор на игры которые проходил.
 actions:
   - text: Давай почитаем
-    link: /welcome/
+    link: /review/
     type: primary
 features:
   - title: Текст
@@ -15,5 +15,5 @@ features:
     details: Текст 2
   - title: Текст 3
     details: Текст 3
-footer: streamsbyben.ru © 2014-2023 
+footer: streamsbyben.ru 
 ---
