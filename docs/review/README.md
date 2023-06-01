@@ -172,7 +172,17 @@ frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"><
 ### ЛАЙК/ДИЗЛАЙК
 - [ ] Понравилась
 
-- [X] Не понравилась	  
+- [X] Не понравилась
+
+## ТАБЛИЦА ОЦЕНКОК ИГР	  
+
+| Игра                                     | Оценка          | Лайк/Дизлайк |
+|:----------------------------------------:|:---------------:|:------------:|
+| Warhammer 40000: Space Marine            | **X**           |              |
+| Partisans 1941                           | **X**           | 			    |
+| DmC Devil May Cry                        | **X**           |              |
+| METAL GEAR RISING: REVENGEANCE           | **X**           |              |
+
 		  
 ## Сайт создан на движке `VuePress`
 [VuePress](https://vuepress.vuejs.org/)
