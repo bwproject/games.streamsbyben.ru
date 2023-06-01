@@ -53,7 +53,7 @@ export default defineUserConfig({
             },
             {
                 text: 'ВК',
-                link: 'https://vk.com/publicbyben/,
+                link: 'https://vk.com/publicbyben/',
             },
             {
                 text: 'ТВИЧ',
