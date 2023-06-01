@@ -34,19 +34,14 @@ frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"><
 
 ` Играю во всё, что пожелаете и во что сам захочу! `
 
-НАЗВАНИЕ И КАРТИНКА
+| НАЗВАНИЕ | МНЕНИЕ   | ВИДЕО МНЕНИЕ |ОЦЕНКА ИГРЫ|ЛАЙК/ДИЗЛАЙК|
+|----------|----------|--------------|-----------|------------|
+|          |          |              |           |            |
 
-МНЕНИЕ
-
-ВИДЕО МНЕНИЕ
-
-ОЦЕНКА ИГРЫ
-
-ЛАЙК/ДИЗЛАЙК
 
 ## Warhammer 40000: Space Marine
 
-### НАЗВАНИЕ И КАРТИНКА
+### НАЗВАНИЕ
 
 Warhammer 40000: Space Marine
 ![Warhammer 40000: Space Marine](https://cdn.cloudflare.steamstatic.com/steam/apps/55150/header.jpg?t=1685490038)
@@ -83,7 +78,7 @@ frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"><
 
 ## Partisans 1941
 
-### НАЗВАНИЕ И КАРТИНКА
+### НАЗВАНИЕ
 
 Partisans 1941
 ![Partisans 1941](https://cdn.cloudflare.steamstatic.com/steam/apps/1227530/header.jpg?t=1685489168)
@@ -111,7 +106,7 @@ frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"><
 
 ## DmC Devil May Cry
 
-### НАЗВАНИЕ И КАРТИНКА
+### НАЗВАНИЕ
 
 DmC Devil May Cry
 ![DmC Devil May Cry](https://cdn.cloudflare.steamstatic.com/steam/apps/220440/header.jpg?t=1685489963)
@@ -151,7 +146,7 @@ Cюжетное дополнение на 6\10!
 
 ## METAL GEAR RISING: REVENGEANCE
 
-### НАЗВАНИЕ И КАРТИНКА
+### НАЗВАНИЕ
 METAL GEAR RISING: REVENGEANCE
 ![METAL GEAR RISING: REVENGEANCE](https://cdn.cloudflare.steamstatic.com/steam/apps/235460/header.jpg?t=1685489943)
 
