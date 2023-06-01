@@ -1,3 +1,30 @@
+<!-- 
+
+ХУЙНЯ ДЛЯ КОПИРОВАНИЯ
+
+## XXXXXXXXXXXXXXXX
+
+### НАЗВАНИЕ И КАРТИНКА
+
+XXXXXXXXXXXXXXXXXX
+![XXXXXXXXXXXXXXXXXXX(https://cdn.cloudflare.steamstatic.com/steam/apps/55150/header.jpg?t=1685490038)
+
+### МНЕНИЕ
+
+
+### ВИДЕО МНЕНИЕ
+<iframe src="https://player.twitch.tv/?video=XXXXXXXX&parent=games.streamsbyben.ru" 
+frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+
+### ОЦЕНКА ИГРЫ
+Игру оценил на XX/XX!
+
+### ЛАЙК/ДИЗЛАЙК
+- [X] Понравилась
+
+- [ ] Не понравилась
+
+-->
 # Добро пожаловать на сайт Обзора игр от BEN`a !
 
 <!-- you don't need to prepend `/bar/` to `/images/hero.png` manually -->
