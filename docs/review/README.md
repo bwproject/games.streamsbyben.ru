@@ -4,11 +4,17 @@
 
 ## XXXXXXXXXXXXXXXX
 
-### НАЗВАНИЕ И КАРТИНКА
+### НАЗВАНИЕ 
 
 **XXXXXXXXXXXXXXXXXX**
 
 ![XXXXXXXXXXXXXXXXXXX(https://cdn.cloudflare.steamstatic.com/steam/apps/55150/header.jpg?t=1685490038)
+
+### ИЗДАТЕЛЬ/РАЗРАБОТЧИК
+
+### ОПИСАНИЕ ИГРЫ
+
+### ПЛАТФОРМА
 
 ### МНЕНИЕ
 ыавфывафываываывавыаываываывавыа
@@ -38,9 +44,9 @@ frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"><
 
 ` Играю во всё, что пожелаете и во что сам захочу! `
 
-| НАЗВАНИЕ   | МНЕНИЕ     | ВИДЕО-ВЕРДИКТ   | ОЦЕНКА ИГРЕ  |РЕКОМЕНДУЮ/НЕ СОВЕТУЮ  |
-|:----------:|:----------:|:---------------:|:------------:|:---------------------:|
-|            |            |                 |              |                       |
+| НАЗВАНИЕ   |ИЗДАТЕЛЬ/РАЗРАБОТЧИК |ОПИСАНИЕ ИГРЫ | ПЛАТФОРМА | МНЕНИЕ     | ВИДЕО-ВЕРДИКТ   | ОЦЕНКА ИГРЕ  |РЕКОМЕНДУЮ/НЕ СОВЕТУЮ  |
+|:----------:|:-------------------:|:------------:|:---------:|:----------:|:---------------:|:------------:|:---------------------:|
+|            |                     |              |           |            |                 |              |                       |
 
 *Как пополним список игр разделим их на категории по жанрам*
 
@@ -52,6 +58,12 @@ frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"><
 **Warhammer 40000: Space Marine**
 
 ![Warhammer 40000: Space Marine](https://cdn.cloudflare.steamstatic.com/steam/apps/55150/header.jpg?t=1685490038)
+
+### ИЗДАТЕЛЬ/РАЗРАБОТЧИК
+
+### ОПИСАНИЕ ИГРЫ
+
+### ПЛАТФОРМА
 
 ### МНЕНИЕ
 Итак, наконец-то я прошёл по трупам, кишкам и крови моих падших врагов Warhammer 40000: Space Marine. 
@@ -91,6 +103,12 @@ frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"><
 
 ![Partisans 1941](https://cdn.cloudflare.steamstatic.com/steam/apps/1227530/header.jpg?t=1685489168)
 
+### ИЗДАТЕЛЬ/РАЗРАБОТЧИК
+
+### ОПИСАНИЕ ИГРЫ
+
+### ПЛАТФОРМА
+
 ### МНЕНИЕ
 Короче говоря, "Партизан 1941" я дропнул...и теперь жду релиза Amnesia: The Bunker. 
 Дропнута игра была по той простой причине, что мне в ней тупо стало пиздец как скучно. 
@@ -119,6 +137,12 @@ frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"><
 **DmC Devil May Cry**
 
 ![DmC Devil May Cry](https://cdn.cloudflare.steamstatic.com/steam/apps/220440/header.jpg?t=1685489963)
+
+### ИЗДАТЕЛЬ/РАЗРАБОТЧИК
+
+### ОПИСАНИЕ ИГРЫ
+
+### ПЛАТФОРМА
 
 ### МНЕНИЕ
 Ну что же, наконец-то я прошёл DmC: Devil May Cry - игру, которая, в своё время подарила мне шикарное детство, 
@@ -159,6 +183,12 @@ Cюжетное дополнение на 6\10!
 **METAL GEAR RISING: REVENGEANCE**
 
 ![METAL GEAR RISING: REVENGEANCE](https://cdn.cloudflare.steamstatic.com/steam/apps/235460/header.jpg?t=1685489943)
+
+### ИЗДАТЕЛЬ/РАЗРАБОТЧИК
+
+### ОПИСАНИЕ ИГРЫ
+
+### ПЛАТФОРМА
 
 ### МНЕНИЕ
 В общем, недолго счастье длилось, ибо я дропнул METAL GEAR RISING: REVENGEANCE. По причине чересчур ебанутого геймплея, в котором нереально существовать...причина в какой-то степени схожая с причиной дропа Hades, а главную роль тут сыграло тупейшее управление, которое крайне неудобно для игрока, но Кодзима - гений, как грится 🤡
