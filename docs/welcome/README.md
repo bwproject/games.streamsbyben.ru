@@ -29,16 +29,12 @@ P.S: Почему Тит и Мира так не сошлись я вообще 
 
 Игру оценил на 6.5/10!
 
+<iframe src="https://player.twitch.tv/?video=1834970054&parent=games.streamsbyben.ru" 
+frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+
 - [X] Понравилась
 
 - [ ] Не понравилась
-
-https://www.twitch.tv/videos/1834970054
-
-
-![](https://www.twitch.tv/videos/1834970054)
-
-<iframe src="https://player.twitch.tv/?video=1834970054&parent=games.streamsbyben.ru" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 
 # ИГРА 2
@@ -53,11 +49,12 @@ https://www.twitch.tv/videos/1834970054
 Может жанр не мой, а может и душа к игре не лежала. В общем, все подробности в хайлайте ниже. 
 Всем удачи и до скорых встреч на стримах! Завтра будет ток. Новости по "Амнезии" также будут позднее..
 
+<iframe src="https://player.twitch.tv/?video=1823752117&parent=games.streamsbyben.ru" 
+frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+
 - [ ] Понравилась
 
 - [x] Не понравилась
-
-https://www.twitch.tv/videos/1823752117
 
 # ИГРА 3
 
