@@ -1,0 +1,17 @@
+{
+  "name": "ProjectBW-WiKi",
+  "version": "1.0.0",
+  "description": "enchald development (by The_Mr_Mes109)",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "projectbw.ru",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.61"
+  },
+  "dependencies": {
+  }
+}

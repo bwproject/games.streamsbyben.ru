@@ -1,0 +1,9 @@
+#node_modules
+#.temp
+#.cache
+#.yarn
+#docs/.vuepress/dist
+#.vuepress/dist
+#.yarnrc.yml
+#.editorconfig
+#docs/v6
