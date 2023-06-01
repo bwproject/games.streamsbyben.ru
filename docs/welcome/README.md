@@ -99,6 +99,6 @@ frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"><
 [VuePress](https://vuepress.vuejs.org/)
 
 Отдельное спасибо:
-**The_Ms_Mes109**
-
+**The_Mr_Mes109**
+[The_Mr_Mes109](https://themrmes109.ru/)
 
