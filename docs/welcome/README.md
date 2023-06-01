@@ -10,18 +10,21 @@
 ## ИГРА 1
 
 
- Markup : - [ ] An uncompleted task
-          - [x] A completed task
+- [ ] Понравилась
+
+- [x] Не понравилась
 ## ИГРА 2
 
 
- Markup : - [ ] An uncompleted task
-          - [x] A completed task
+- [ ] Понравилась
+
+- [x] Не понравилась
 ## ИГРА 3
 
 
- Markup : - [ ] An uncompleted task
-          - [x] A completed task
+- [ ] Понравилась
+
+- [x] Не понравилась
 		  
 		  
 ## Сайт создан на движке `VuePress`
@@ -29,7 +32,6 @@
 
 
 Отдельное спасибо:
-
 **The_Ms_Mes109**
 
 
