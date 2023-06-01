@@ -179,7 +179,5 @@ frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"><
 Генератор статических сайтов на базе Vue
 
 ### Отдельное спасибо:
-**The_Mr_Mes109**
-
 [The_Mr_Mes109](https://themrmes109.ru/)
 
