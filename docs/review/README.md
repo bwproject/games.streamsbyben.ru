@@ -95,11 +95,11 @@ frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"><
 <iframe src="https://player.twitch.tv/?video=1797187306&parent=games.streamsbyben.ru" 
 frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>		  
 		  
-# Сайт создан на движке `VuePress`
+## Сайт создан на движке `VuePress`
 [VuePress](https://vuepress.vuejs.org/)
 Генератор статических сайтов на базе Vue
 
-## Отдельное спасибо:
+### Отдельное спасибо:
 **The_Mr_Mes109**
 
 [The_Mr_Mes109](https://themrmes109.ru/)
