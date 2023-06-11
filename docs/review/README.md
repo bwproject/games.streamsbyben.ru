@@ -95,6 +95,7 @@ frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"><
 
  - [ ] Не советую
 
+## ЖАНР ИГРЫ
 
 ### Partisans 1941
 
@@ -130,6 +131,7 @@ frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"><
 
  - [X] Не советую
 
+## ЖАНР ИГРЫ
 
 ### DmC Devil May Cry
 
@@ -178,6 +180,8 @@ Cюжетное дополнение на 6\10!
 
  - [ ] Не советую
 
+## ЖАНР ИГРЫ
+
 ### METAL GEAR RISING: REVENGEANCE
 
 #### НАЗВАНИЕ
@@ -207,7 +211,7 @@ frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"><
 
  - [X] Не советую
 
-### ТАБЛИЦА ОЦЕНКОК ИГР	  
+## ТАБЛИЦА ОЦЕНКОК ИГР	  
 
 | Игра                                     | Оценка            | РЕКОМЕНДУЮ/НЕ СОВЕТУЮ |
 |:----------------------------------------:|:-----------------:|:---------------------:|
@@ -216,7 +220,6 @@ frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"><
 | DmC Devil May Cry                        | **X**             |                       |
 | METAL GEAR RISING: REVENGEANCE           | **X**             |                       |
 
-## ЖАНР ИГРЫ
 
 ## Сайт создан на движке `VuePress`
 [VuePress](https://vuepress.vuejs.org/)
