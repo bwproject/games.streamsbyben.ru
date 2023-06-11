@@ -50,7 +50,7 @@ frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"><
 
 *Как пополним список игр разделим их на категории по жанрам*
 
-# Экшены
+## Экшены
 
 <!-- Warhammer 40000: Space Marine -->
 
@@ -100,9 +100,8 @@ frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"><
 
 <!-- Warhammer 40000: Space Marine -->
 
-# Хорроры
+## Без жанр
 
-# Жанр игры
 
 <!-- Partisans 1941 -->
 
