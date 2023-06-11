@@ -52,6 +52,8 @@ frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"><
 
 ## Экшены
 
+## Хорроры
+
 <!-- Warhammer 40000: Space Marine -->
 
 ## Warhammer 40000: Space Marine
@@ -193,7 +195,7 @@ Cюжетное дополнение на 6\10!
 <!-- METAL GEAR RISING: REVENGEANCE-->
 
 
-### METAL GEAR RISING: REVENGEANCE
+## METAL GEAR RISING: REVENGEANCE
 
 ### НАЗВАНИЕ
 **METAL GEAR RISING: REVENGEANCE**
