@@ -52,6 +52,8 @@ frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"><
 
 ## Экшены
 
+<!-- Warhammer 40000: Space Marine -->
+
 ## Warhammer 40000: Space Marine
 
 ### НАЗВАНИЕ
@@ -95,7 +97,10 @@ frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"><
 
  - [ ] Не советую
 
-# ЖАНР ИГРЫ
+
+<!-- Warhammer 40000: Space Marine -->
+
+<!-- Partisans 1941 -->
 
 ## Partisans 1941
 
@@ -131,7 +136,10 @@ frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"><
 
  - [X] Не советую
 
-# ЖАНР ИГРЫ
+<!-- Partisans 1941 -->
+
+<!-- DmC Devil May Cry-->
+
 
 ## DmC Devil May Cry
 
@@ -180,6 +188,10 @@ Cюжетное дополнение на 6\10!
 
  - [ ] Не советую
 
+<!-- DmC Devil May Cry-->
+
+<!-- METAL GEAR RISING: REVENGEANCE-->
+
 
 ### METAL GEAR RISING: REVENGEANCE
 
@@ -209,6 +221,8 @@ frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"><
  - [ ] Рекомендую
 
  - [X] Не советую
+
+<!-- METAL GEAR RISING: REVENGEANCE-->
 
 <!-- ТАБЛИЦА ОЦЕНКОК ИГР -->
 
