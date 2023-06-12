@@ -35,7 +35,7 @@ frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"><
  - [ ] НЕ СОВЕТУЮ
 
 -->
-# Добро пожаловать на сайт Обзора игр от BEN`a !
+# Добро пожаловать на сайт Игропедия BEN`a !
 
 <!-- you don't need to prepend `/bar/` to `/images/hero.png` manually -->
 ![logo](https://games.streamsbyben.ru/images/hero2.png)
