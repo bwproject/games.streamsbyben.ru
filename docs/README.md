@@ -2,7 +2,7 @@
 home: true
 title: Главная страница.
 heroImage: /images/hero.png
-heroText: Обзор игр от BEN`a
+heroText: Игропедия BEN`a
 tagline: Моя личная игропедия.
 actions:
   - text: Перейти!
