@@ -3,7 +3,7 @@ home: true
 title: Главная страница.
 heroImage: /images/hero.png
 heroText: Обзор игр от BEN`a
-tagline: Энциклопедия качественного контента и не очень.
+tagline: Моя личная игропедия.
 actions:
   - text: Перейти!
     link: /review/
