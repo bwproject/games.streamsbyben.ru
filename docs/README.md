@@ -9,11 +9,7 @@ actions:
     link: /review/
     type: primary
 features:
-  - title: Текст
+  - title: Описание
     details: Текст
-  - title: Текст 2 
-    details: Текст 2
-  - title: Текст 3
-    details: Текст 3
 footer: streamsbyben.ru 
 ---
