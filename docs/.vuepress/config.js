@@ -27,7 +27,7 @@ export default defineUserConfig({
                 lastUpdatedText: "Последнее обновление",
                 notFound: [
                     "Здесь ничего нет.",
-		    "Пожалуйста не заходите слишком далеко",
+					"Пожалуйста не заходите слишком далеко",
                     "Как мы тут оказались?",
                     "Похоже, у нас есть несколько неработающих ссылок."
                 ],
@@ -58,6 +58,10 @@ export default defineUserConfig({
             {
                 text: 'TWITCH',
                 link: 'https://www.twitch.tv/streamsbyben',
+            },
+            {
+                text: 'YOUTUBE',
+                link: 'https://www.youtube.com/channel/UCiJUr9eiijACrvV9F1kzhmA',
             },			
             {
                 text: 'PROJECTBW.RU',
@@ -70,7 +74,7 @@ export default defineUserConfig({
                     text: 'Обзор игр от BEN`a',
                     collapsible: false,
                     children: [						
-			'/review/README.md',											
+					'/review/README.md',											
                     ],
                 },
             ],
