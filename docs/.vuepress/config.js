@@ -27,7 +27,7 @@ export default defineUserConfig({
                 lastUpdatedText: "Последнее обновление",
                 notFound: [
                     "Здесь ничего нет.",
-					"Пожалуйста не заходите слишком далеко",
+		    "Пожалуйста не заходите слишком далеко",
                     "Как мы тут оказались?",
                     "Похоже, у нас есть несколько неработающих ссылок."
                 ],
@@ -52,11 +52,11 @@ export default defineUserConfig({
                 link: 'https://streamsbyben.ru/',
             },
             {
-                text: 'ВК',
+                text: 'VK',
                 link: 'https://vk.com/publicbyben/',
             },
             {
-                text: 'ТВИЧ',
+                text: 'TWITCH',
                 link: 'https://www.twitch.tv/streamsbyben',
             },			
             {
