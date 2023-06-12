@@ -12,8 +12,8 @@ export default defineUserConfig({
 		['link', {rel: 'icon', type: 'image/png', sizes: '512x512', href: `/images/icon.png`,}],
     ],
     lang: 'ru_RU',
-    title: 'Обзор игр от BEN`a',
-    description: 'Обзор игр от BEN`a',
+    title: 'Игропедия BEN`a',
+    description: 'Игропедия BEN`a',
     port: '8080', //Порт на котором запускается VuePress
     theme: defaultTheme({
         repo: 'bwproject/game.streamsbyben.ru',
@@ -27,7 +27,7 @@ export default defineUserConfig({
                 lastUpdatedText: "Последнее обновление",
                 notFound: [
                     "Здесь ничего нет.",
-					"Пожалуйста не заходите слишком далеко",
+		    "Пожалуйста не заходите слишком далеко",
                     "Как мы тут оказались?",
                     "Похоже, у нас есть несколько неработающих ссылок."
                 ],
@@ -42,7 +42,7 @@ export default defineUserConfig({
         logo: 'images/hero.png',
         navbar: [
             {
-                text: 'Обзор игр от BEN`a',
+                text: 'Игропедия BEN`a',
                 children: [
                     '/review/README.md',                  				
                 ],
@@ -71,7 +71,7 @@ export default defineUserConfig({
         sidebar: {
             '/': [
                 {
-                    text: 'Обзор игр от BEN`a',
+                    text: 'Игропедия BEN`a',
                     collapsible: false,
                     children: [						
 					'/review/README.md',											
