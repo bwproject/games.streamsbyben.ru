@@ -1,11 +1,8 @@
 .feature {
   margin: auto;
   text-align: center;
+  position: relative;
 }
-:feature {
-  text-align: center;
-  padding: 10px;
-} 
 
 :root {
   scroll-behavior: smooth;
