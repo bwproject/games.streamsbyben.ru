@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ru_RU">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="generator" content="VuePress 2.0.0-beta.61">
+    <style>
+      :root {
+        --c-bg: #fff;
+      }
+      html.dark {
+        --c-bg: #22272e;
+      }
+      html, body {
+        background-color: var(--c-bg);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem('vuepress-color-scheme');
+			const systemDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+			if (userMode === 'dark' || (userMode !== 'light' && systemDarkMode)) {
+				document.documentElement.classList.toggle('dark', true);
+			}
+    </script>
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/icons/16.png"><link rel="icon" type="image/png" sizes="32x32" href="/images/icons/32.png"><link rel="icon" type="image/png" sizes="64x64" href="/images/icons/64.png"><link rel="icon" type="image/png" sizes="150x150" href="/images/icons/150.png"><link rel="icon" type="image/png" sizes="192x192" href="/images/icons/192.png"><link rel="icon" type="image/png" sizes="384x384" href="/images/icons/384.png"><link rel="icon" type="image/png" sizes="512x512" href="/images/icon.png"><title>Игропедия BEN`a</title><meta name="description" content="Игропедия BEN`a">
+    <link rel="preload" href="/assets/style-49de893f.css" as="style"><link rel="stylesheet" href="/assets/style-49de893f.css">
+    <link rel="modulepreload" href="/assets/app-8a7719fd.js"><link rel="modulepreload" href="/assets/framework-573f6671.js"><link rel="modulepreload" href="/assets/404.html-b0349332.js"><link rel="modulepreload" href="/assets/404.html-fd3af05c.js"><link rel="prefetch" href="/assets/index.html-b63964a2.js" as="script"><link rel="prefetch" href="/assets/index.html-56d3969e.js" as="script"><link rel="prefetch" href="/assets/index.html-7a81ac0a.js" as="script"><link rel="prefetch" href="/assets/index.html-8a46ba95.js" as="script">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="theme-container"><main class="page"><div class="theme-default-content"><h1>404</h1><blockquote>Похоже, у нас есть несколько неработающих ссылок.</blockquote><a href="/" class="">Вернуться на главную</a></div></main></div><!----><!--]--></div>
+    <script type="module" src="/assets/app-8a7719fd.js" defer></script>
+  </body>
+</html>
